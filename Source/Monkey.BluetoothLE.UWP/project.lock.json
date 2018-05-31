@@ -333,7 +333,7 @@
           "System.Xml.XDocument": "4.3.0"
         }
       },
-      "Newtonsoft.Json/10.0.3": {
+      "Newtonsoft.Json/11.0.2": {
         "type": "package",
         "dependencies": {
           "Microsoft.CSharp": "4.3.0",
@@ -2671,7 +2671,7 @@
           "System.Xml.XDocument": "4.3.0"
         }
       },
-      "Newtonsoft.Json/10.0.3": {
+      "Newtonsoft.Json/11.0.2": {
         "type": "package",
         "dependencies": {
           "Microsoft.CSharp": "4.3.0",
@@ -5117,7 +5117,7 @@
           "System.Xml.XDocument": "4.3.0"
         }
       },
-      "Newtonsoft.Json/10.0.3": {
+      "Newtonsoft.Json/11.0.2": {
         "type": "package",
         "dependencies": {
           "Microsoft.CSharp": "4.3.0",
@@ -7600,7 +7600,7 @@
           "System.Xml.XDocument": "4.3.0"
         }
       },
-      "Newtonsoft.Json/10.0.3": {
+      "Newtonsoft.Json/11.0.2": {
         "type": "package",
         "dependencies": {
           "Microsoft.CSharp": "4.3.0",
@@ -10055,7 +10055,7 @@
           "System.Xml.XDocument": "4.3.0"
         }
       },
-      "Newtonsoft.Json/10.0.3": {
+      "Newtonsoft.Json/11.0.2": {
         "type": "package",
         "dependencies": {
           "Microsoft.CSharp": "4.3.0",
@@ -12544,7 +12544,7 @@
           "System.Xml.XDocument": "4.3.0"
         }
       },
-      "Newtonsoft.Json/10.0.3": {
+      "Newtonsoft.Json/11.0.2": {
         "type": "package",
         "dependencies": {
           "Microsoft.CSharp": "4.3.0",
@@ -14999,7 +14999,7 @@
           "System.Xml.XDocument": "4.3.0"
         }
       },
-      "Newtonsoft.Json/10.0.3": {
+      "Newtonsoft.Json/11.0.2": {
         "type": "package",
         "dependencies": {
           "Microsoft.CSharp": "4.3.0",
@@ -17520,10 +17520,10 @@
         "netstandard.library.nuspec"
       ]
     },
-    "Newtonsoft.Json/10.0.3": {
-      "sha512": "wBM7i7i3U2WX0ecor4zdVGvgrwFUjuigBoHKiL+nH39fCOpCPjBY3RDqJM32edvdyTAVdjzlccHsg41+/+zpSA==",
+    "Newtonsoft.Json/11.0.2": {
+      "sha512": "IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
       "type": "package",
-      "path": "newtonsoft.json/10.0.3",
+      "path": "newtonsoft.json/11.0.2",
       "files": [
         "LICENSE.md",
         "lib/net20/Newtonsoft.Json.dll",
@@ -17538,13 +17538,14 @@
         "lib/netstandard1.0/Newtonsoft.Json.xml",
         "lib/netstandard1.3/Newtonsoft.Json.dll",
         "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
         "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
         "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
         "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
         "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
-        "newtonsoft.json.10.0.3.nupkg.sha512",
-        "newtonsoft.json.nuspec",
-        "tools/install.ps1"
+        "newtonsoft.json.11.0.2.nupkg.sha512",
+        "newtonsoft.json.nuspec"
       ]
     },
     "runtime.any.System.Collections/4.3.0": {
@@ -23811,45 +23812,44 @@
   "projectFileDependencyGroups": {
     "": [
       "Microsoft.NETCore.UniversalWindowsPlatform >= 5.2.2",
-      "Newtonsoft.Json >= 10.0.3"
+      "Newtonsoft.Json >= 11.0.2"
     ],
     "UAP,Version=v10.0.10586": []
   },
   "packageFolders": {
-    "C:\\Users\\Adrian\\.nuget\\packages\\": {}
+    "C:\\Users\\Elton\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
-      "projectUniqueName": "F:\\xam\\Monkey.Robotics\\Source\\Monkey.BluetoothLE.UWP\\Monkey.BluetoothLE.UWP.csproj",
+      "projectUniqueName": "D:\\GitHub\\Xamarin\\Monkey.BluetoothLE\\Source\\Monkey.BluetoothLE.UWP\\Monkey.BluetoothLE.UWP.csproj",
       "projectName": "Monkey.BluetoothLE.UWP",
-      "projectPath": "F:\\xam\\Monkey.Robotics\\Source\\Monkey.BluetoothLE.UWP\\Monkey.BluetoothLE.UWP.csproj",
-      "projectJsonPath": "F:\\xam\\Monkey.Robotics\\Source\\Monkey.BluetoothLE.UWP\\project.json",
-      "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
-      "outputPath": "F:\\xam\\Monkey.Robotics\\Source\\Monkey.BluetoothLE.UWP\\obj\\",
+      "projectPath": "D:\\GitHub\\Xamarin\\Monkey.BluetoothLE\\Source\\Monkey.BluetoothLE.UWP\\Monkey.BluetoothLE.UWP.csproj",
+      "projectJsonPath": "D:\\GitHub\\Xamarin\\Monkey.BluetoothLE\\Source\\Monkey.BluetoothLE.UWP\\project.json",
+      "packagesPath": "C:\\Users\\Elton\\.nuget\\packages\\",
+      "outputPath": "D:\\GitHub\\Xamarin\\Monkey.BluetoothLE\\Source\\Monkey.BluetoothLE.UWP\\obj\\",
       "projectStyle": "ProjectJson",
       "configFilePaths": [
-        "C:\\Users\\Adrian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Elton\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "f:\\LocalNuget": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://www.myget.org/F/xamarinforms-dev/api/v3/index.json": {}
+        "C:\\Users\\Elton\\.dotnet\\NuGetFallbackFolder": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "uap10.0.10586": {
           "projectReferences": {
-            "F:\\xam\\Monkey.Robotics\\Source\\Monkey.BluetoothLE.Core\\Monkey.BluetoothLE.Core.csproj": {
-              "projectPath": "F:\\xam\\Monkey.Robotics\\Source\\Monkey.BluetoothLE.Core\\Monkey.BluetoothLE.Core.csproj"
+            "D:\\GitHub\\Xamarin\\Monkey.BluetoothLE\\Source\\Monkey.BluetoothLE.Core\\Monkey.BluetoothLE.Core.csproj": {
+              "projectPath": "D:\\GitHub\\Xamarin\\Monkey.BluetoothLE\\Source\\Monkey.BluetoothLE.Core\\Monkey.BluetoothLE.Core.csproj"
             }
           }
         }
       }
     },
     "dependencies": {
-      "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.2",
-      "Newtonsoft.Json": "10.0.3"
+      "Microsoft.NETCore.UniversalWindowsPlatform": "[5.2.2, )",
+      "Newtonsoft.Json": "[11.0.2, )"
     },
     "frameworks": {
       "uap10.0.10586": {}
